@@ -1,4 +1,4 @@
-# baseURL = "https://your_domain.com/"
+baseURL = "https://gmoriki.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = "mailto:moriki.ginga@gmail.com", text = "Contact" },
-     { email = { href = "https://speakerdeck.com/gmoriki", text = "Contact" } },
+     { email = { href = "mailto:moriki.ginga@gmail.com", text = "Contact" } },
      { Researchmap = { href = "https://researchmap.jp/gmoriki",text = "Researchmap"} },
      { note = { href = "https://note.com/pogohopper8", text = "note" } },
      { twitter = "https://twitter.com/pogohopper8" },
