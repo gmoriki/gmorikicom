@@ -1,0 +1,39 @@
+# baseURL = "https://your_domain.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "森木 銀河"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+  # name = "Your name here"
+  headline = "AIとヒトをつなぐ人"
+  image = "profile.jpg"  # path relative to static directory
+
+  links = [
+    # { email = "mailto:moriki.ginga@gmail.com", text = "Contact" },
+     { email = { href = "https://speakerdeck.com/gmoriki", text = "Contact" } },
+     { Researchmap = { href = "https://researchmap.jp/gmoriki",text = "Researchmap"} },
+     { note = { href = "https://note.com/pogohopper8", text = "note" } },
+     { twitter = "https://twitter.com/pogohopper8" },
+     { speakerdeck = { href = "https://speakerdeck.com/gmoriki", text = "Speakerdeck" } },
+     { github = "https://github.com/gmoriki" },
+     { youtube = "https://youtube.com/@gmoriki" },
+     { linkedin = "https://linkedin.com/in/gmoriki" },
+    # { aboutme = { href = "styles/", text = "and more..." } },
+     { shokumu = { href = "https://gmoriki.github.io/ginga-moriki/",text = "職務経歴"} },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.86.1"

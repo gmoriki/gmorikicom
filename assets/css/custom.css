@@ -1,0 +1,46 @@
+.link-email {
+  background: rgb(4, 104, 47);
+}
+
+.link-Forms {
+  background: rgb(4, 104, 47);
+}
+
+.link-note {
+  background: rgb(0, 0, 0);
+}
+
+.link-aboutme {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    rgb(25, 30, 39) 50%,
+    rgb(255, 255, 255) 100%
+  );
+
+}
+
+.link-twitter {
+    background: rgb(29, 161, 242);
+    background: linear-gradient(
+      90deg,
+      rgb(29, 161, 242) 0%,
+      rgb(0, 51, 137) 50%,
+      rgb(0, 0, 0) 100%
+    );
+  }
+
+.link-speakerdeck {
+    background: rgb(2, 120, 110);
+  }
+
+.link-Researchmap {
+    background: rgb(73, 79, 89);
+  }
+
+
+.link-shokumu {
+    background: rgb(0, 0, 0);
+  }
+  
