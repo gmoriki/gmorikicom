@@ -1,5 +1,10 @@
 .link-email {
-  background: rgb(4, 104, 47);
+  background: linear-gradient(
+    90deg,
+    rgb(61, 55, 223) 0%,
+    rgb(155, 105, 234) 80%,
+    rgb(213, 144, 227) 100%
+  )
 }
 
 .link-Forms {
