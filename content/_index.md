@@ -1,5 +1,5 @@
 ---
-description: "This is a demo of the Lynx theme for Hugo."
+description: ""
 ---
 
-講演等のご依頼は「Contact」よりお申し付けください
+大学や企業における生成AI推進をお手伝いします
