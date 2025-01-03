@@ -1,8 +1,9 @@
 ---
-title: Link styles
+title: テスト
 ---
 
-These are all the built-in link styles available in Lynx. Don't forget that you can also create your own styles --- check the [readme](https://github.com/jpanther/lynx/blob/stable/README.md) for more details.
+テスト
+
 <br><br>
 
 </section>
